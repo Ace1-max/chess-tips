@@ -1,24 +1,24 @@
-const quotes = require('./quotes.json');
+const tips = require('./tips.json');
 
-function randomQuote() {
-    return quotes[Math.floor(Math.random() * quotes.length)];
+function randomTip() {
+    return tips[Math.floor(Math.random() * tips.length)];
 }
 
-function allQuotes() {
-    return quotes;
+function allTips() {
+    return tips;
 }
 
-function numberOfQuotes() {
-    return quotes.length;
+function numberOfTips() {
+    return tips.length;
 }
 
-function quotesByAuthor(name) {
-    return quotes.filter(quote => quote.name === name);
+function tipsByCategory(category) {
+    return tips.filter(tip => tip.category === category);
 }
 
 module.exports = {
-    randomQuote,
-    allQuotes,
-    numberOfQuotes,
-    quotesByAuthor
+    randomTip,
+    allTips,
+    numberOfTips,
+    tipsByCategory
 };
