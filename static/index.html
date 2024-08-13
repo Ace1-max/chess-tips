@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chess Quotes API by Ace</title>
+    <title>Chess Tips API by Ace</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -67,26 +67,26 @@
 <body>
 
     <div>
-        <h1>Chess Quotes API</h1>
+        <h1>Chess Tips API</h1>
 
-        <p>A JSON API for random chess quotes by various players and authors</p>
+        <p>A JSON API for random chess tips by various players and category</p>
         <code>
             {<br>
-            "name": "<span id="name"></span>",<br>
-            "quote": "<span id="quote"></span>"<br>
+            "category": "<span id="category"></span>",<br>
+            "tip": "<span id="tip"></span>"<br>
             }<br>
         </code>
     </div>
 
     <script>
-        let url = "https://chess-quotes-api.onrender.com/api/";
+        let url = "https://chess-tips-api.onrender.com/api/";
         fetch(url)
             .then(function (response) {
                 return response.json();
             })
             .then(function (jsonObj) {
-                document.getElementById("name").innerHTML = jsonObj.name;
-                document.getElementById("quote").innerHTML = jsonObj.quote;
+                document.getElementById("category").innerHTML = jsonObj.category;
+                document.getElementById("tip").innerHTML = jsonObj.tip;
             });
     </script>
 
