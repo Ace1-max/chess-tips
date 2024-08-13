@@ -1,0 +1,503 @@
+[
+    {
+      "id": 1,
+      "tip": "Develop your pieces early in the game to control the center of the board.",
+      "category": "General"
+    },
+    {
+      "id": 2,
+      "tip": "Castle early to safeguard your king and bring your rooks into play.",
+      "category": "General"
+    },
+    {
+      "id": 3,
+      "tip": "Protect your pawns as they are the backbone of your position.",
+      "category": "General"
+    },
+    {
+      "id": 4,
+      "tip": "Pay attention to your opponent's threats and plan your moves accordingly.",
+      "category": "General"
+    },
+    {
+      "id": 5,
+      "tip": "Control the center with your pawns and pieces to limit your opponent's options.",
+      "category": "General"
+    },
+    {
+      "id": 6,
+      "tip": "Create a pawn chain to firmly control important squares.",
+      "category": "General"
+    },
+    {
+      "id": 7,
+      "tip": "Don't bring your queen out too early; it can become a target for your opponent.",
+      "category": "General"
+    },
+    {
+      "id": 8,
+      "tip": "Study common chess openings to learn solid opening principles.",
+      "category": "General"
+    },
+    {
+      "id": 9,
+      "tip": "Always consider your opponent's possible responses when making a move.",
+      "category": "General"
+    },
+    {
+      "id": 10,
+      "tip": "Don't neglect the importance of pawn structure; it can greatly impact your position.",
+      "category": "General"
+    },
+    {
+      "id": 11,
+      "tip": "Think ahead and plan your moves in advance to avoid getting into difficult situations.",
+      "category": "General"
+    },
+    {
+      "id": 12,
+      "tip": "Maintain piece coordination to maximize their effectiveness.",
+      "category": "General"
+    },
+    {
+      "id": 13,
+      "tip": "Avoid moving the same piece multiple times in the opening unless necessary.",
+      "category": "General"
+    },
+    {
+      "id": 14,
+      "tip": "Consider the pawn structure before initiating exchanges; it may favor one side.",
+      "category": "General"
+    },
+    {
+      "id": 15,
+      "tip": "Take your time and calculate variations thoroughly to avoid blunders.",
+      "category": "General"
+    },
+    {
+      "id": 16,
+      "tip": "Use tactics like pins, forks, and skewers to gain material advantage.",
+      "category": "General"
+    },
+    {
+      "id": 17,
+      "tip": "When playing against a stronger opponent, seek to simplify the position to reduce their advantage.",
+      "category": "General"
+    },
+    {
+      "id": 18,
+      "tip": "When ahead, trade pieces to enter an endgame where your advantage can be easily converted.",
+      "category": "General"
+    },
+    {
+      "id": 19,
+      "tip": "Don't underestimate the power of a well-timed pawn break to open up the position.",
+      "category": "General"
+    },
+    {
+      "id": 20,
+      "tip": "Avoid unnecessary pawn moves as it weakens your pawn structure.",
+      "category": "General"
+    },
+    {
+      "id": 21,
+      "tip": "Keep an eye on your opponent's pawn breaks to anticipate their plans.",
+      "category": "General"
+    },
+    {
+      "id": 22,
+      "tip": "Activate your pieces to their best squares and avoid passive positions.",
+      "category": "General"
+    },
+    {
+      "id": 23,
+      "tip": "Identify and target your opponent's weaknesses to put pressure on their position.",
+      "category": "General"
+    },
+    {
+      "id": 24,
+      "tip": "When in time trouble, prioritize making safe moves over finding the best move.",
+      "category": "General"
+    },
+    {
+      "id": 25,
+      "tip": "Analyze your games to identify your mistakes and areas for improvement.",
+      "category": "General"
+    },
+    {
+      "id": 26,
+      "tip": "Consider pawn breaks in closed positions to create open lines and opportunities.",
+      "category": "General"
+    },
+    {
+      "id": 27,
+      "tip": "When attacking, launch your pawns and coordinate your pieces to maximize your chances.",
+      "category": "General"
+    },
+    {
+      "id": 28,
+      "tip": "Don't rush to capture material; sometimes positional advantages are more valuable.",
+      "category": "General"
+    },
+    {
+      "id": 29,
+      "tip": "In the endgame, activate your king to support your pawns and limit your opponent's king.",
+      "category": "Endgame"
+    },
+    {
+      "id": 30,
+      "tip": "Pawn endgames require accurate calculation and understanding of key concepts.",
+      "category": "Endgame"
+    },
+    {
+      "id": 31,
+      "tip": "The principle of two weaknesses: aim to exploit multiple weaknesses in your opponent's position.",
+      "category": "Strategic"
+    },
+    {
+      "id": 32,
+      "tip": "In closed positions, look for outposts for your knights to establish strong positions.",
+      "category": "Strategic"
+    },
+    {
+      "id": 33,
+      "tip": "Create imbalances in the position to make it harder for your opponent to find good moves.",
+      "category": "Strategic"
+    },
+    {
+      "id": 34,
+      "tip": "Evaluate the pawn structure to determine the best piece placements and strategic plans.",
+      "category": "Strategic"
+    },
+    {
+      "id": 35,
+      "tip": "Activate your rooks by placing them on open files or behind passed pawns.",
+      "category": "Strategic"
+    },
+    {
+      "id": 36,
+      "tip": "In pawn endgames, the opposition can be a crucial concept to win tempos and gain an advantage.",
+      "category": "Endgame"
+    },
+    {
+      "id": 37,
+      "tip": "In the middlegame, create threats and force your opponent to react defensively.",
+      "category": "Middlegame Tips"
+    },
+    {
+      "id": 38,
+      "tip": "When your opponent has weakened squares, place your pieces there to exploit their vulnerabilities.",
+      "category": "Strategic"
+    },
+    {
+      "id": 39,
+      "tip": "Exchange pieces that defend your opponent's important squares to gain control over them.",
+      "category": "Strategic"
+    },
+    {
+      "id": 40,
+      "tip": "When your opponent has doubled pawns, target them to weaken their structure.",
+      "category": "Strategic"
+    },
+    {
+      "id": 41,
+      "tip": "Don't neglect the importance of king safety; it can determine the success of your attack.",
+      "category": "General"
+    },
+    {
+      "id": 42,
+      "tip": "When defending, look for opportunities to counterattack and generate counterplay.",
+      "category": "General"
+    },
+    {
+      "id": 43,
+      "tip": "Consider sacrificing material to open up your opponent's king and create attacking chances.",
+      "category": "General"
+    },
+    {
+      "id": 44,
+      "tip": "Avoid moving your pawns in front of your castled king unless necessary.",
+      "category": "General"
+    },
+    {
+      "id": 45,
+      "tip": "Be aware of stalemate possibilities when you have a material advantage.",
+      "category": "General"
+    },
+    {
+      "id": 46,
+      "tip": "When behind in material, seek counterplay and tactical opportunities to level the position.",
+      "category": "General"
+    },
+    {
+      "id": 47,
+      "tip": "Consider positional sacrifices to obtain long-term compensation or disrupt your opponent's plans.",
+      "category": "General"
+    },
+    {
+      "id": 48,
+      "tip": "Avoid moving your queen too early in the game, as it can be vulnerable to attacks.",
+      "category": "General"
+    },
+    {
+      "id": 49,
+      "tip": "In complicated positions, prioritize piece activity and initiative over material considerations.",
+      "category": "General"
+    },
+    {
+      "id": 50,
+      "tip": "Don't neglect pawn breaks in the center to challenge your opponent's control.",
+      "category": "General"
+    },
+    {
+      "id": 51,
+      "tip": "Consider the king's potential activity when choosing between two variations.",
+      "category": "General"
+    },
+    {
+      "id": 52,
+      "tip": "In the opening, develop your pieces harmoniously to avoid weak squares in your position.",
+      "category": "Opening"
+    },
+    {
+      "id": 53,
+      "tip": "When facing a novelty, analyze it carefully and try to find the best counterplay.",
+      "category": "Opening"
+    },
+    {
+      "id": 54,
+      "tip": "Control the center with your pawns to limit your opponent's piece mobility.",
+      "category": "Opening"
+    },
+    {
+      "id": 55,
+      "tip": "Study basic checkmating patterns to recognize potential mating ideas in the middle and endgame.",
+      "category": "Tactical"
+    },
+    {
+      "id": 56,
+      "tip": "When calculating lines, consider forcing moves like checks, captures, and threats first.",
+      "category": "Tactical"
+    },
+    {
+      "id": 57,
+      "tip": "In tactical positions, look for undefended pieces or weak squares to exploit.",
+      "category": "Tactical"
+    },
+    {
+      "id": 58,
+      "tip": "Double attacks can be powerful tactics; look for moves that attack multiple targets at once.",
+      "category": "Tactical"
+    },
+    {
+      "id": 59,
+      "tip": "When your pieces are under attack, consider if there are tactical defense opportunities.",
+      "category": "Tactical"
+    },
+    {
+      "id": 60,
+      "tip": "In complicated positions, it's important to accurately calculate long forcing sequences.",
+      "category": "Tactical"
+    },
+    {
+      "id": 61,
+      "tip": "Look for tactical motifs like forks, pins, skewers, discovered attacks, and back-rank mates.",
+      "category": "Tactical"
+    },
+    {
+      "id": 62,
+      "tip": "When attacking the enemy king, consider sacrificing material to open lines and create mating threats.",
+      "category": "Tactical"
+    },
+    {
+      "id": 63,
+      "tip": "Evaluate the safety of your king before launching a complicated attack or sacrifice.",
+      "category": "Tactical"
+    },
+    {
+      "id": 64,
+      "tip": "In tactical positions, calculate forcing moves until the end to avoid overlooking defensive resources.",
+      "category": "Tactical"
+    },
+    {
+      "id": 65,
+      "tip": "When defending against tactics, look for defensive ideas like counterattacks and intermezzo moves.",
+      "category": "Tactical"
+    },
+    {
+      "id": 66,
+      "tip": "Understand and utilize the power of pins to restrict the movement of your opponent's pieces.",
+      "category": "Tactical"
+    },
+    {
+      "id": 67,
+      "tip": "When ahead, simplify the position to reduce the chances of your opponent staging a comeback.",
+      "category": "General"
+    },
+    {
+      "id": 68,
+      "tip": "When behind, complicate the position and create tactical complications to increase your chances of a comeback.",
+      "category": "General"
+    },
+    {
+      "id": 69,
+      "tip": "In the endgame, centralize your king and utilize it for active play.",
+      "category": "Endgame"
+    },
+    {
+      "id": 70,
+      "tip": "Rook endgames often require precise maneuvering to achieve a favorable outcome.",
+      "category": "Endgame"
+    },
+    {
+      "id": 71,
+      "tip": "Bishop endgames can be tricky; consider the color of the squares and the pawn structure.",
+      "category": "Endgame"
+    },
+    {
+      "id": 72,
+      "tip": "Knight endgames can be challenging; remember their limited range and the importance of centralization.",
+      "category": "Endgame"
+    },
+    {
+      "id": 73,
+      "tip": "When calculating forced lines, double-check your calculations to avoid blunders.",
+      "category": "Tactical"
+    },
+    {
+      "id": 74,
+      "tip": "In closed positions, look for breakthrough moves to open up the position and gain initiative.",
+      "category": "Strategic"
+    },
+    {
+      "id": 75,
+      "tip": "In open positions, prioritize piece activity and central control.",
+      "category": "Strategic"
+    },
+    {
+      "id": 76,
+      "tip": "Avoid creating unnecessary weaknesses in your pawn structure.",
+      "category": "Strategic"
+    },
+    {
+      "id": 77,
+      "tip": "When in a winning position, maintain your focus and avoid complacency.",
+      "category": "General"
+    },
+    {
+      "id": 78,
+      "tip": "When behind in material, seek tactical opportunities and complications to turn the tide.",
+      "category": "General"
+    },
+    {
+      "id": 79,
+      "tip": "In the middlegame, identify potential outpost squares and aim to place your pieces there.",
+      "category": "Middlegame Tips"
+    },
+    {
+      "id": 80,
+      "tip": "In opposite-colored bishop endgames, be aware of the potential for fortress drawing chances.",
+      "category": "Endgame"
+    },
+    {
+      "id": 81,
+      "tip": "In king and pawn endgames, understanding key positions and pawn breakthrough ideas is crucial.",
+      "category": "Endgame"
+    },
+    {
+      "id": 82,
+      "tip": "When in doubt, it's generally better to err on the side of caution and choose a safer move.",
+      "category": "General"
+    },
+    {
+      "id": 83,
+      "tip": "When playing against a passed pawn, prevent it from advancing and create counterplay.",
+      "category": "Strategic"
+    },
+    {
+      "id": 84,
+      "tip": "In rook endgames, try to activate your rook and cut off your opponent's king.",
+      "category": "Endgame"
+    },
+    {
+      "id": 85,
+      "tip": "When facing a dangerous opponent, avoid exchanging pieces and keep more material on the board.",
+      "category": "General"
+    },
+    {
+      "id": 86,
+      "tip": "In queen endgames, watch out for perpetual check possibilities and stalemate tricks.",
+      "category": "Endgame"
+    },
+    {
+      "id": 87,
+      "tip": "Avoid exchanging too many minor pieces if you have an advantage in pawn structure.",
+      "category": "Strategic"
+    },
+    {
+      "id": 88,
+      "tip": "In knight endgames, consider the optimal pawn structure to aim for to maximize your chances.",
+      "category": "Endgame"
+    },
+    {
+      "id": 89,
+      "tip": "Don't ignore pawn promotions in your calculations and position evaluation.",
+      "category": "Tactical"
+    },
+    {
+      "id": 90,
+      "tip": "In pawn endgames, accurately calculate and evaluate zugzwang positions.",
+      "category": "Endgame"
+    },
+    {
+      "id": 91,
+      "tip": "In queen and pawn endgames, focus on pawn promotion races and tactical possibilities.",
+      "category": "Endgame"
+    },
+    {
+      "id": 92,
+      "tip": "Assess the value of piece activity versus material to make the best decisions in complex positions.",
+      "category": "Strategic"
+    },
+    {
+      "id": 93,
+      "tip": "In opposite-side castling positions, initiate an attack on the opponent's king before they attack yours.",
+      "category": "Middlegame Tips"
+    },
+    {
+      "id": 94,
+      "tip": "In bishop endgames, be aware of potential color-based tactics and the importance of the bishop's scope.",
+      "category": "Endgame"
+    },
+    {
+      "id": 95,
+      "tip": "In pawn endgames, understand the concept of corresponding squares and opposition.",
+      "category": "Endgame"
+    },
+    {
+      "id": 96,
+      "tip": "When playing against a fianchetto setup, try to undermine their structure and exploit weak squares.",
+      "category": "Strategic"
+    },
+    {
+      "id": 97,
+      "tip": "When defending against a strong initiative, look for defensive resources and counterplay possibilities.",
+      "category": "General"
+    },
+    {
+      "id": 98,
+      "tip": "In queen endgames, control the open files and coordinate your rooks for maximal effectiveness.",
+      "category": "Endgame"
+    },
+    {
+      "id": 99,
+      "tip": "In knight endgames, remember the knight's ability to control both light and dark squares.",
+      "category": "Endgame"
+    },
+    {
+      "id": 100,
+      "tip": "In king and pawn endgames, remember the concept of the 'square of the pawn' to determine king positions.",
+      "category": "Endgame"
+    }
+]
+
