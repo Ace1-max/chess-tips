@@ -3,19 +3,19 @@ const router = express.Router();
 const functions = require('./functions');
 
 router.get('/', (req, res) => {
-    res.json(functions.randomQuote());
+    res.json(functions.randomTip());
 });
 
 router.get('/all', (req, res) => {
-    return res.json(functions.allQuotes());
+    return res.json(functions.allTips());
 });
 
 router.get('/total', (req, res) => {
-    res.json(functions.numberOfQuotes());
+    res.json(functions.numberOfTips());
 });
 
-router.get('/author/:author', (req, res) => {
-      res.json(functions.quotesByAuthor(req.params.author));
+router.get('/category/:category', (req, res) => {
+      res.json(functions.tipsByCatehory(req.params.category));
   });
 
 module.exports = router;
